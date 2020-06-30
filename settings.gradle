@@ -1,0 +1,3 @@
+rootProject.name = 'kt-39881'
+
+include 'app'
